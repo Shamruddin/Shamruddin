@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shamruddin</h1>
-<h3 align="center">A Passionate Information Technology from India</h3>
+<h1 align="center">Hey Everyone 👋, I'm Shamruddin </h1>
+
+<h3 align="center">A passionate Cloud and Devops Engineer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamruddin&label=Profile%20views&color=0e75b6&style=flat" alt="shamruddin" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamruddin" alt="shamruddin" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/shamruddin](https://github.com/shamruddin)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
 
 - 📫 How to reach me **shamruddinshaik@gmail.com**
 
@@ -12,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shamruddinshaik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamruddinshaik/" height="30" width="40" /></a>
+  <a href="https://instagram.com/iam_shammu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamruddin&show_icons=true&locale=en&layout=compact" alt="shamruddin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamruddin&show_icons=true&locale=en" alt="shamruddin" /></p>
+![Snake animation](https://github.com/shamruddin/shamruddin/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamruddin&" alt="shamruddin" /></p>
+
+
+
