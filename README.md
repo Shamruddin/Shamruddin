@@ -55,6 +55,6 @@ hobbies: ["Games", "Cinema", "Webseries", "Blogs", "Comedy"]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamruddin&show_icons=true&locale=en&layout=compact" alt="shamruddin" /></p>
 
-
+![snake gif](https://github.com/shamruddin/shamruddin/blob/output/github-contribution-grid-snake.gif)
 
 
