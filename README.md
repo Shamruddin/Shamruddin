@@ -55,12 +55,6 @@ hobbies: ["Games", "Cinema", "Webseries", "Blogs", "Comedy"]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamruddin&show_icons=true&locale=en&layout=compact" alt="shamruddin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamruddin&show_icons=true&locale=en" alt="shamruddin" /></p>
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 
